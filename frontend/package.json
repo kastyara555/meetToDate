@@ -1,0 +1,27 @@
+{
+  "name": "meetToDate",
+  "version": "1.0.0",
+  "description": "Project of mine for learning new technologies (Next.JS, Sockets, etc.)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kastyara555/meetToDate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kastyara555/meetToDate/issues"
+  },
+  "homepage": "https://github.com/kastyara555/meetToDate#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "next": "^12.2.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "sass": "^1.54.4"
+  }
+}
