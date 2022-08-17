@@ -9,7 +9,7 @@ const MainContainer = ({ children, keywords }) => (
         <div>
             <Link href="/"><h3>Main</h3></Link>
             <Link href="/tmp"><h3>Tmp</h3></Link>
-            <Link href="/users"><h3>Users</h3></Link>
+            <Link href="/rooms"><h3>Rooms</h3></Link>
         </div>
         <div>{children}</div>
     </>
