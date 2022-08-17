@@ -1,11 +1,11 @@
 import MainContainer from "../components/MainContainer";
 
-const Users = () => {
+const Index = () => {
     return (
         <MainContainer>
-            <h1>Users</h1>
+            <h1>БЫЛА ОШИБ.ОЧКА</h1>
         </MainContainer>
     );
 };
 
-export default Users;
+export default Index;
